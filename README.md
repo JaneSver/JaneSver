@@ -1,4 +1,4 @@
-- My name is jansver lee.
+- My name is janesver lee.
 
 <!---
 JaneSver/JaneSver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
